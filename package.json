@@ -1,0 +1,16 @@
+{
+  "name": "relatorio-google-ads",
+  "version": "1.0.0",
+  "description": "Gerador de relatórios Google Ads em PDF",
+  "main": "generator.js",
+  "scripts": {
+    "start": "node generator.js",
+    "dev": "NODE_ENV=development node generator.js",
+    "logs": "cat logs/latest.log",
+    "logs-today": "cat logs/$(date +%Y-%m-%d).log",
+    "clean-logs": "rm -rf logs/archive/*"
+  },
+  "dependencies": {
+    "puppeteer": "^latest"
+  }
+}
