@@ -1,16 +1,36 @@
 {
   "name": "relatorio-google-ads",
-  "version": "1.0.0",
-  "description": "Gerador de relatórios Google Ads em PDF",
-  "main": "generator.js",
+  "version": "2.0.0", 
+  "description": "Gerador automático de relatórios Google Ads com monitoramento em tempo real",
+  "main": "app.js",
   "scripts": {
-    "start": "node generator.js",
-    "dev": "NODE_ENV=development node generator.js",
-    "logs": "cat logs/latest.log",
-    "logs-today": "cat logs/$(date +%Y-%m-%d).log",
-    "clean-logs": "rm -rf logs/archive/*"
+    "start": "node app.js",
+    "watch": "node app.js --watch", 
+    "dev": "node app.js --watch",
+    "legacy": "node generator.js",
+    "clean": "node clean-and-organize.js",
+    "clean:force": "node clean-and-organize.js && npm run clean:cache",
+    "clean:cache": "node -e \"const fs=require('fs-extra'); fs.emptyDirSync('./cache'); fs.emptyDirSync('./output'); console.log('Cache limpo!')\"",
+    "logs": "node scripts/logs.js", 
+    "status": "node app.js --status",
+    "setup": "node setup.js"
   },
   "dependencies": {
-    "puppeteer": "^latest"
-  }
+    "puppeteer": "^21.0.0",
+    "chokidar": "^3.5.3", 
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.2.0",
+    "lodash": "^4.17.21"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "relatórios", 
+    "pdf", 
+    "automação", 
+    "marketing", 
+    "google-ads", 
+    "monitoramento"
+  ]
 }

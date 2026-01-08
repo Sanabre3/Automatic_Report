@@ -1,101 +1,48 @@
 {
   "relatorio": {
-    "titulo": "Relatório Google Ads",
-    "periodo": "2026",
+    "titulo": "Relatório de Performance Digital",
+    "periodo": "4º Trimestre 2025", 
     "dataGeracao": "Janeiro 2026",
-    "fonte": "VTEX"
+    "plataforma": "Google Ads"
   },
   "empresa": {
-    "nome": "BISTURI Material Hospitalar",
-    "site": "https://www.bisturi.com.br/",
+    "site": "https://www.seusite.com.br/",
     "github": "https://github.com/Sanabre3"
   },
-  "kpis": {
-    "totalPedidos": "2.392",
-    "totalPedidosCrescimento": "+98%",
-    "receitaTotal": "R$ 577.893",
-    "receitaTotalCrescimento": "+148%",
-    "ticketMedio": "R$ 241,48",
-    "ticketMedioCrescimento": "+25%",
-    "roasMedio": "17,5x"
+  "configuracoes": {
+    "investimentoMensalMedio": 9000,
+    "metaROAS": 10.0
   },
-  "destaque": "Google Ads apresentou crescimento excepcional em 2025, com ROAS médio de 17,5x e crescimento de 98% nos pedidos vs 2024.",
-  "meses": {
-    "outubro": {
-      "pedidos2024": 433,
-      "pedidos2025": 652,
-      "alturaBar2024": "43%",
-      "alturaBar2025": "65%",
-      "receita2024": "R$ 110.745",
-      "receita2025": "R$ 151.720",
-      "crescimentoPedidos": "+50,6%",
-      "crescimentoReceita": "+37,0%",
-      "ticketMedio2024": "R$ 255,85",
-      "ticketMedio2025": "R$ 232,67",
-      "variacaoTicket": "-9,1%",
-      "investimento": "R$ 11.000",
-      "roi": "1.279%",
-      "roas": "13,79x",
-      "performance": "🟢 Excelente",
-      "roasWidth": "69%",
-      "ticketWidth": "100%"
+  "dados": [
+    {
+      "data": "2024-10-01",
+      "pedidos": 2000,
+      "valorBruto": 1100000
     },
-    "novembro": {
-      "pedidos2024": 387,
-      "pedidos2025": 892,
-      "alturaBar2024": "39%",
-      "alturaBar2025": "89%",
-      "receita2024": "R$ 90.337",
-      "receita2025": "R$ 219.087",
-      "crescimentoPedidos": "+130,5%",
-      "crescimentoReceita": "+142,5%",
-      "ticketMedio2024": "R$ 233,43",
-      "ticketMedio2025": "R$ 245,61",
-      "variacaoTicket": "+5,2%",
-      "investimento": "R$ 11.000",
-      "roi": "1.892%",
-      "roas": "19,92x",
-      "performance": "🟢 Excepcional",
-      "roasWidth": "100%",
-      "ticketWidth": "91%"
+    {
+      "data": "2024-11-01",
+      "pedidos": 3000,
+      "valorBruto": 900000
     },
-    "dezembro": {
-      "pedidos2024": 415,
-      "pedidos2025": 848,
-      "alturaBar2024": "41%",
-      "alturaBar2025": "85%",
-      "receita2024": "R$ 83.432",
-      "receita2025": "R$ 207.086",
-      "crescimentoPedidos": "+104,3%",
-      "crescimentoReceita": "+148,2%",
-      "ticketMedio2024": "R$ 201,03",
-      "ticketMedio2025": "R$ 244,22",
-      "variacaoTicket": "+21,5%",
-      "investimento": "R$ 11.000",
-      "roi": "1.783%",
-      "roas": "18,83x",
-      "performance": "🟢 Excepcional",
-      "roasWidth": "94%",
-      "ticketWidth": "78%"
+    {
+      "data": "2024-12-01", 
+      "pedidos": 4000,
+      "valorBruto": 830000
+    },
+    {
+      "data": "2025-10-01",
+      "pedidos": 8000,
+      "valorBruto": 1650000
+    },
+    {
+      "data": "2025-11-01",
+      "pedidos": 9000, 
+      "valorBruto": 2300000
+    },
+    {
+      "data": "2025-12-01",
+      "pedidos": 10000,
+      "valorBruto": 25000000
     }
-  },
-  "eficiencia": {
-    "pedidosMes2024": 412,
-    "pedidosMes2025": 797,
-    "melhoriaP": "+94%",
-    "receitaMes2024": "R$ 94.838",
-    "receitaMes2025": "R$ 192.631",
-    "melhoriaR": "+103%",
-    "ticketMedio2024": "R$ 230,10",
-    "ticketMedio2025": "R$ 241,48",
-    "melhoriaT": "+5%",
-    "roasMedio2024": "8,6x",
-    "roasMedio2025": "17,5x",
-    "melhoriaRoas": "+103%"
-  },
-  "conclusao": {
-    "investimentoTrimestre": "R$ 33.000",
-    "receitaGerada": "R$ 577.893",
-    "roasResultado": "17,5x"
-  }
+  ]
 }
