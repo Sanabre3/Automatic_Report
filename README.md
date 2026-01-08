@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=Relat%C3%B3rioPDF&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Automatize%20seus%20relat%C3%B3rios%20de%20Google%20Ads%20em%20PDF&descAlignY=55&descSize=15" alt="RelatórioPDF Header"/>
 
-[![Status](https://img.shields.io/badge/Status-Prod%C3%A7%C3%A3o-success?style=for-the-badge&logo=github)](https://github.com/Sanabre3/relatorioPDF)
+[![Status](https://img.shields.io/badge/Status-Producao-success?style=for-the-badge&logo=github)](https://github.com/Sanabre3/relatorioPDF)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=semver)](https://github.com/Sanabre3/relatorioPDF/releases)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensource)](LICENSE)
 
@@ -24,7 +24,7 @@
 ## 🛠️ Índice
 
 <details>
-<summary>⚡ Navegação Rápida</summary>
+<summary>📋 Navegação Rápida</summary>
 
 - [🎯 Sobre o Projeto](#-sobre-o-projeto)
 - [✨ Funcionalidades](#-funcionalidades)
@@ -32,11 +32,10 @@
 - [🛠️ Tecnologias](#️-tecnologias-utilizadas)
 - [⚡ Instalação Rápida](#-instalação-rápida)
 - [📂 Arquitetura](#-arquitetura-do-sistema)
-- [🎯 Como Usar](#-como-usar)
-- [🔧 Configuração](#-configuração-avançada)
+- [❔ Como Usar](#-como-usar)
+- [🛠️ Configuração](#-configuração-avançada)
 - [⚡ Performance](#-performance-e-otimizações)
 - [🗺️ Roadmap](#️-roadmap-futuro)
-- [🔧 Desenvolvimento](#-guia-de-desenvolvimento)
 - [📊 Métricas](#-métricas-e-estatísticas)
 - [❓ FAQ](#-faq-e-solução-de-problemas)
 - [🤝 Contribuição](#-contribuição)
@@ -46,7 +45,7 @@
 
 ---
 
-## 🎯 Sobre o Projeto
+## 🌐 Sobre o Projeto
 
 > **🚀 Transforme dados de campanhas em relatórios profissionais em segundos**
 
@@ -54,7 +53,7 @@ O **RelatórioPDF** é uma solução Node.js robusta que automatiza completament
 
 ### 🛠️ Principais Diferenciais
 
-| 🌟 Recurso | 📈 Descrição |
+| 🌟 Recurso | 📄 Descrição |
 |------------|--------------|
 | **🤖 Automação Total** | Zero intervenção manual - da configuração ao PDF final |
 | **📊 Métricas Inteligentes** | Cálculo automático de ROI, ROAS, crescimento e 15+ KPIs |
@@ -63,7 +62,7 @@ O **RelatórioPDF** é uma solução Node.js robusta que automatiza completament
 | **⚡ Performance Otimizada** | Geração em 2-5 segundos com cache inteligente |
 
 <details>
-<summary>⚙️ <strong>Impacto na Produtividade</strong></summary>
+<summary>⚡ <strong>Impacto na Produtividade</strong></summary>
 
 ```diff
 - ANTES: 2-4 horas para criar um relatório manualmente
@@ -84,48 +83,19 @@ O **RelatórioPDF** é uma solução Node.js robusta que automatiza completament
 
 ### 🎯 **Implementadas** [![Status](https://img.shields.io/badge/Status-Completo-success?style=flat-square)](/)
 
-<table>
-<tr>
-<td width="50%">
+| 🤖 **Automação Inteligente** | 📊 **Analytics Avançados** |
+|------------------------------|----------------------------|
+| ✅ **Geração automática** de PDF em segundos | ✅ **ROI e ROAS** calculados automaticamente |
+| ✅ **Monitoramento contínuo** de mudanças | ✅ **Crescimento mensal** e tendências |
+| ✅ **Cálculo automático** de 15+ métricas | ✅ **Ticket médio** e conversões |
+| ✅ **Validação de dados** integrada | ✅ **Comparações período anterior** |
 
-#### 🤖 **Automação Inteligente**
-- [x] **Geração automática** de PDF em segundos
-- [x] **Monitoramento contínuo** de mudanças
-- [x] **Cálculo automático** de 15+ métricas
-- [x] **Validação de dados** integrada
-
-</td>
-<td width="50%">
-
-#### 📊 **Analytics Avançados**
-- [x] **ROI e ROAS** calculados automaticamente
-- [x] **Crescimento mensal** e tendências
-- [x] **Ticket médio** e conversões
-- [x] **Comparações período anterior**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🎨 **Design Profissional**
-- [x] **Templates responsivos** HTML/CSS
-- [x] **Gráficos e tabelas** otimizados
-- [x] **Base64 integrado** para imagens
-- [x] **Formatação brasileira** (R$, datas)
-
-</td>
-<td width="50%">
-
-#### 🛠️ **Robustez Técnica**
-- [x] **Sistema de logs** coloridos e detalhados
-- [x] **Cache inteligente** de renderização
-- [x] **Tratamento de erros** completo
-- [x] **Recuperação automática** de falhas
-
-</td>
-</tr>
-</table>
+| 🎨 **Design Profissional** | ⚙️ **Robustez Técnica** |
+|-----------------------------|--------------------------|
+| ✅ **Templates responsivos** HTML/CSS | ✅ **Sistema de logs** coloridos e detalhados |
+| ✅ **Gráficos e tabelas** otimizados | ✅ **Cache inteligente** de renderização |
+| ✅ **Base64 integrado** para imagens | ✅ **Tratamento de erros** completo |
+| ✅ **Formatação brasileira** (R$, datas) | ✅ **Recuperação automática** de falhas |
 
 ### 🚧 **Próximas Implementações** [![Status](https://img.shields.io/badge/Status-Planejado-warning?style=flat-square)](/)
 
@@ -158,36 +128,15 @@ const proximasFeatures = {
 
 ### 🎯 **Antes vs Depois**
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-#### ❌ **Processo Manual Tradicional**
-![Processo Manual](https://placehold.co/400x300/ff6b6b/ffffff?text=Processo+Manual)
-
-**❌ Problemas:**
-- ⏰ 2-4 horas por relatório
-- ✋ Trabalho manual repetitivo  
-- 🐛 Erros de cálculo frequentes
-- 🎨 Inconsistência visual
-- 📊 Métricas desatualizadas
-
-</td>
-<td align="center" width="50%">
-
-#### ✅ **Com RelatórioPDF**
-![Processo Automatizado](https://placehold.co/400x300/4ecdc4/ffffff?text=RelatórioPDF)
-
-**✅ Benefícios:**
-- ⚡ 30 segundos por relatório
-- 🤖 Completamente automático
-- 📊 Precisão matemática total
-- 🎨 Design profissional padrão  
-- 🔄 Sempre atualizado
-
-</td>
-</tr>
-</table>
+| ❌ **Processo Manual Tradicional** | ✅ **Com RelatórioPDF** |
+|-------------------------------------|-------------------------|
+| ![Processo Manual](https://placehold.co/400x300/ff6b6b/ffffff?text=Processo+Manual) | ![Processo Automatizado](https://placehold.co/400x300/4ecdc4/ffffff?text=RelatorioPDF) |
+| **❌ Problemas:** | **✅ Benefícios:** |
+| ⏰ 2-4 horas por relatório | ⚡ 30 segundos por relatório |
+| ✋ Trabalho manual repetitivo | 🤖 Completamente automático |
+| 🐛 Erros de cálculo frequentes | 📊 Precisão matemática total |
+| ⚠️ Inconsistência visual | 🎨 Design profissional padrão |
+| 📊 Métricas desatualizadas | 🔄 Sempre atualizado |
 
 ### 📈 **Exemplo de Relatório Gerado**
 
@@ -360,22 +309,10 @@ docker run -p 3000:3000 -v $(pwd)/config.json:/app/config.json relatorio-pdf
 
 ### 🔄 **Fluxo de Processamento**
 
-```mermaid
-graph TD
-    A[📊 config.json] --> B[👁️ FileWatcher]
-    B --> C[✅ Validator]
-    C --> D[🧮 MetricsCalculator]
-    D --> E[🎨 HTMLGenerator]
-    E --> F[📄 PDFGenerator]
-    F --> G[💾 Output/logs]
-    
-    H[🔄 Watch Mode] --> B
-    I[📱 Manual Trigger] --> C
-    
-    style A fill:#e1f5fe
-    style G fill:#e8f5e8
-    style B fill:#fff3e0
-    style F fill:#fce4ec
+```
+📊 config.json → 👁️ FileWatcher → ✅ Validator → 🧮 MetricsCalculator
+                                                        ↓
+💾 Output/logs ← 📄 PDFGenerator ← 🎨 HTMLGenerator ← 🔄 DataProcessor
 ```
 
 ---
@@ -384,110 +321,27 @@ graph TD
 
 ### 🛠️ **Comandos Principais**
 
-<table class="data-table">
-  <thead>
-    <tr>
-      <th scope="col">🔧 Comando</th>
-      <th scope="col">📄 Função Detalhada</th>
-      <th scope="col">⚡ Cenário Ideal</th>
-      <th scope="col">⏱️ Tempo</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code>npm start</code></td>
-      <td>Gera relatório único com validação completa</td>
-      <td>Primeira execução, testes pontuais</td>
-      <td>2-5s</td>
-    </tr>
-    <tr>
-      <td><code>npm run watch</code></td>
-      <td>Ativa monitoramento contínuo inteligente</td>
-      <td>Produção, desenvolvimento contínuo</td>
-      <td>∞</td>
-    </tr>
-    <tr>
-      <td><code>npm run legacy</code></td>
-      <td>Executa gerador legado sem funcionalidades modernas</td>
-      <td>Compatibilidade, debug</td>
-      <td>3-8s</td>
-    </tr>
-    <tr>
-      <td><code>npm run logs</code></td>
-      <td>Exibe logs coloridos da última execução</td>
-      <td>Monitoramento, debug, auditoria</td>
-      <td>Instantâneo</td>
-    </tr>
-    <tr>
-      <td><code>npm run clean</code></td>
-      <td>Limpa cache e reorganiza estrutura</td>
-      <td>Manutenção, resolver problemas</td>
-      <td>5-10s</td>
-    </tr>
-  </tbody>
-</table>
+| 🔧 Comando | 📄 Função Detalhada | ⚡ Cenário Ideal | ⏱️ Tempo |
+|------------|---------------------|------------------|----------|
+| `npm start` | Gera relatório único com validação completa | Primeira execução, testes pontuais | 2-5s |
+| `npm run watch` | Ativa monitoramento contínuo inteligente | Produção, desenvolvimento contínuo | ∞ |
+| `npm run legacy` | Executa gerador legado sem funcionalidades modernas | Compatibilidade, debug | 3-8s |
+| `npm run logs` | Exibe logs coloridos da última execução | Monitoramento, debug, auditoria | Instantâneo |
+| `npm run clean` | Limpa cache e reorganiza estrutura | Manutenção, resolver problemas | 5-10s |
 
 ### 🎮 **Fluxos de Trabalho**
 
-<table>
-<tr>
-<td width="33%">
-
-#### 🚀 **Iniciante**
-```bash
-# 1️⃣ Primeiro teste
-npm start
-
-# 2️⃣ Editar config.json
-# com seus dados reais
-
-# 3️⃣ Gerar personalizado  
-npm start
-
-# 4️⃣ Verificar resultado
-npm run logs
-```
-
-</td>
-<td width="33%">
-
-#### ⚡ **Produção**
-```bash
-# 1️⃣ Setup único
-npm install
-
-# 2️⃣ Configurar dados
-cp config.example.json config.json
-# Editar dados reais
-
-# 3️⃣ Monitoramento
-npm run watch &
-
-# 4️⃣ Acompanhar
-tail -f logs/latest.log
-```
-
-</td>
-<td width="33%">
-
-#### 🛠️ **Desenvolvedor**
-```bash
-# 1️⃣ Clone dev
-npm install --include=dev
-
-# 2️⃣ Modo dev
-npm run dev
-
-# 3️⃣ Testes
-npm test
-
-# 4️⃣ Build
-npm run build
-```
-
-</td>
-</tr>
-</table>
+| 🚀 **Iniciante** | ⚡ **Produção** | 🛠️ **Desenvolvedor** |
+|------------------|------------------|-----------------------|
+| `# 1️⃣ Primeiro teste` | `# 1️⃣ Setup único` | `# 1️⃣ Clone dev` |
+| `npm start` | `npm install` | `npm install --include=dev` |
+| `# 2️⃣ Editar config.json` | `# 2️⃣ Configurar dados` | `# 2️⃣ Modo dev` |
+| `# com seus dados reais` | `cp config.example.json config.json` | `npm run dev` |
+| `# 3️⃣ Gerar personalizado` | `# Editar dados reais` | `# 3️⃣ Testes` |
+| `npm start` | `# 3️⃣ Monitoramento` | `npm test` |
+| `# 4️⃣ Verificar resultado` | `npm run watch &` | `# 4️⃣ Build` |
+| `npm run logs` | `# 4️⃣ Acompanhar` | `npm run build` |
+| | `tail -f logs/latest.log` | |
 
 ---
 
@@ -500,7 +354,6 @@ npm run build
 
 ```json
 {
-  "🎯 INFORMAÇÕES DO RELATÓRIO": "Metadados e identificação",
   "relatorio": {
     "titulo": "Relatório de Performance Q1 2024",
     "subtitulo": "Análise Detalhada Google Ads",
@@ -513,7 +366,6 @@ npm run build
     "idioma": "pt-BR"
   },
 
-  "🏢 DADOS DA EMPRESA": "Informações organizacionais",
   "empresa": {
     "nome": "Sua Empresa LTDA",
     "logo": "./img/logo-empresa.png",
@@ -524,7 +376,6 @@ npm run build
     }
   },
 
-  "⚙️ CONFIGURAÇÕES DE CÁLCULO": "Parâmetros para métricas",
   "configuracoes": {
     "investimentoMensalMedio": 15000,
     "metaROAS": 8.0,
@@ -534,7 +385,6 @@ npm run build
     "margemLucro": 0.35
   },
 
-  "📊 DADOS DE PERFORMANCE": "Métricas mensais",
   "dados": [
     {
       "data": "2024-01-01",
@@ -569,29 +419,13 @@ npm run build
 
 ### 📊 **Métricas de Performance**
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-#### 🏆 **Benchmarks**
-![Performance](https://img.shields.io/badge/Geração%20PDF-2--5s-brightgreen?style=for-the-badge)
-![Memory](https://img.shields.io/badge/Memória-150--300MB-blue?style=for-the-badge)
-![CPU](https://img.shields.io/badge/CPU%20Usage-15--30%25-orange?style=for-the-badge)
-![Size](https://img.shields.io/badge/PDF%20Size-500KB--2MB-purple?style=for-the-badge)
-
-</td>
-<td width="50%">
-
-#### ⚡ **Otimizações Implementadas**
-- **🔄 Cache inteligente** de templates compilados
-- **📄 Renderização otimizada** Puppeteer headless  
-- **⚙️ Compressão automática** de imagens Base64
-- **⚡ Lazy loading** de recursos pesados
-- **🛠️ Debounce** em file watching (evita execuções múltiplas)
-
-</td>
-</tr>
-</table>
+| 🏆 **Benchmarks** | ⚡ **Otimizações Implementadas** |
+|-------------------|----------------------------------|
+| ![Performance](https://img.shields.io/badge/Geracao%20PDF-2--5s-brightgreen?style=for-the-badge) | **🔄 Cache inteligente** de templates compilados |
+| ![Memory](https://img.shields.io/badge/Memoria-150--300MB-blue?style=for-the-badge) | **📄 Renderização otimizada** Puppeteer headless |
+| ![CPU](https://img.shields.io/badge/CPU%20Usage-15--30%25-orange?style=for-the-badge) | **🗜️ Compressão automática** de imagens Base64 |
+| ![Size](https://img.shields.io/badge/PDF%20Size-500KB--2MB-purple?style=for-the-badge) | **⚡ Lazy loading** de recursos pesados |
+| | **🛠️ Debounce** em file watching (evita execuções múltiplas) |
 
 ### 📈 **Comparativo de Performance**
 
@@ -601,7 +435,7 @@ npm run build
 | **🐛 Taxa de Erro** | ~15% | <0.1% | **99.3% mais preciso** |
 | **💾 Uso de Recursos** | High (Designer) | 150-300MB | **95% menos recursos** |
 | **🔄 Consistência** | Variável | 100% | **Padrão garantido** |
-| **📈 Métricas** | Manual/limitado | 15+ automáticas | **Insights completos** |
+| **�� Métricas** | Manual/limitado | 15+ automáticas | **Insights completos** |
 
 ---
 
@@ -609,19 +443,24 @@ npm run build
 
 ### 📅 **Timeline de Desenvolvimento**
 
-```mermaid
-gantt
-    title Roadmap RelatórioPDF
-    dateFormat  YYYY-MM-DD
-    section v1.x - Atual
-    Sistema Base           :done, base, 2023-10-01, 2024-01-15
-    Optimizações          :done, opt, 2024-01-01, 2024-02-01
-    section v2.0 - Interface
-    Interface React       :active, react, 2024-03-01, 2024-06-30
-    Export CSV           :csv, 2024-04-01, 2024-06-15
-    section v2.1 - API
-    API REST             :api, 2024-06-01, 2024-08-31
-    Integração Google    :google, 2024-07-01, 2024-09-30
+```
+v1.x - Atual        ████████████████████████████████ 100% ✅ CONCLUÍDO
+├── ⚡ Sistema base completo
+├── 📊 15+ métricas automatizadas
+├── 👁️ Monitoramento em tempo real
+└── 🎨 Templates profissionais
+
+v2.0 - Interface    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0% 🔄 PLANEJADO
+├── ⚛️ Interface React moderna (Q2 2024)
+├── 📊 Export CSV avançado (Q2 2024)
+├── 📱 Dashboard interativo
+└── ✅ Editor visual de templates
+
+v2.1 - API          ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0% 📋 FUTURO
+├── 🔌 API REST completa (Q3 2024)
+├── 🔗 Integração Google Ads
+├── 🤖 Webhooks automáticos
+└── 📊 Analytics em tempo real
 ```
 
 ### 🎯 **Próximas Releases**
@@ -681,11 +520,11 @@ gantt
 <summary>🔌 <strong>v2.1 - API Analytics</strong> <code>Planejado</code></summary>
 
 #### 🎯 **Objetivos Principais**
-- [ ] 🔌 API REST completa
+- [ ] �� API REST completa
 - [ ] 📊 Endpoints de análise avançada
 - [ ] 🔗 Integração Google Ads direta
 - [ ] 🤖 Webhooks para automação
-- [ ] �� Analytics em tempo real
+- [ ] 📊 Analytics em tempo real
 
 #### 📈 **Progresso: 0%**
 ```
@@ -720,42 +559,12 @@ POST /api/integrations/googleads // Sincroniza Google Ads
 
 ### 🔥 **Estatísticas de Uso**
 
-<table class="data-table">
-  <thead>
-    <tr>
-      <th scope="col">📊 Métrica</th>
-      <th scope="col">📈 Valor Atual</th>
-      <th scope="col">🎯 Meta 2024</th>
-      <th scope="col">📈 Tendência</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>⚡ Tempo Médio Geração</strong></td>
-      <td>3.2 segundos</td>
-      <td>< 2 segundos</td>
-      <td>📈 Melhorando</td>
-    </tr>
-    <tr>
-      <td><strong>💾 Tamanho Médio PDF</strong></td>
-      <td>750 KB</td>
-      <td>< 500 KB</td>
-      <td>📉 Otimizando</td>
-    </tr>
-    <tr>
-      <td><strong>🔄 Taxa de Sucesso</strong></td>
-      <td>99.7%</td>
-      <td>99.9%</td>
-      <td>📈 Estável</td>
-    </tr>
-    <tr>
-      <td><strong>📊 Métricas Calculadas</strong></td>
-      <td>15+ KPIs</td>
-      <td>25+ KPIs</td>
-      <td>📈 Expandindo</td>
-    </tr>
-  </tbody>
-</table>
+| 📊 Métrica | 📈 Valor Atual | 🎯 Meta 2024 | 📈 Tendência |
+|-----------|----------------|--------------|-------------|
+| **⚡ Tempo Médio Geração** | 3.2 segundos | < 2 segundos | 📈 Melhorando |
+| **💾 Tamanho Médio PDF** | 750 KB | < 500 KB | 📉 Otimizando |
+| **📈 Taxa de Sucesso** | 99.7% | 99.9% | 📈 Estável |
+| **📊 Métricas Calculadas** | 15+ KPIs | 25+ KPIs | 📈 Expandindo |
 
 ### 💻 **Estatísticas Técnicas**
 
@@ -948,57 +757,20 @@ npm run clean
 <div align="center">
 
 [![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome!-brightgreen?style=for-the-badge&logo=heart)](CONTRIBUTING.md)
-[![Good First Issues](https://img.shields.io/github/issues-search?repository_id=123&label=Good%20First%20Issues&query=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22&style=for-the-badge&color=7057ff)](https://github.com/Sanabre3/relatorioPDF/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+[![Good First Issues](https://img.shields.io/badge/Good%20First%20Issues-Available-7057ff?style=for-the-badge)](https://github.com/Sanabre3/relatorioPDF/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 </div>
 
 ### 📋 **Guia Rápido de Contribuição**
 
-<table>
-<tr>
-<td width="33%">
-
-#### 1️⃣ **Preparação**
-```bash
-# Fork no GitHub
-# Clone seu fork
-git clone https://github.com/SEU-USER/relatorioPDF.git
-
-# Setup desenvolvimento
-npm install --include=dev
-npm run setup-dev
-```
-
-</td>
-<td width="33%">
-
-#### 2️⃣ **Desenvolvimento**
-```bash
-# Criar branch
-git checkout -b feature/minha-feature
-
-# Implementar
-# Testar localmente
-npm run dev
-npm test
-```
-
-</td>
-<td width="33%">
-
-#### 3️⃣ **Submissão**
-```bash
-# Commit padrão
-git commit -m "feat: nova funcionalidade"
-
-# Push e PR
-git push origin feature/minha-feature
-# Criar Pull Request no GitHub
-```
-
-</td>
-</tr>
-</table>
+| 1️⃣ **Preparação** | 2️⃣ **Desenvolvimento** | 3️⃣ **Submissão** |
+|-------------------|------------------------|-------------------|
+| `# Fork no GitHub` | `# Criar branch` | `# Commit padrão` |
+| `# Clone seu fork` | `git checkout -b feature/minha-feature` | `git commit -m "feat: nova funcionalidade"` |
+| `git clone https://github.com/SEU-USER/relatorioPDF.git` | `# Implementar` | `# Push e PR` |
+| `# Setup desenvolvimento` | `# Testar localmente` | `git push origin feature/minha-feature` |
+| `npm install --include=dev` | `npm run dev` | `# Criar Pull Request no GitHub` |
+| `npm run setup-dev` | `npm test` | |
 
 ### 📝 **Convenções de Commit**
 
@@ -1024,12 +796,12 @@ git commit -m "perf: otimiza renderização PDF com cache de templates"
 
 | 🏷️ Label | 📝 Descrição | 🎨 Cor |
 |----------|-------------|--------|
-| `🐛 bug` | Algo não funcionando | ![#d73a4a](https://placehold.co/15/d73a4a/000000?text=+) |
-| `✨ feature` | Nova funcionalidade | ![#a2eeef](https://placehold.co/15/a2eeef/000000?text=+) |
-| `📝 docs` | Melhorias documentação | ![#0075ca](https://placehold.co/15/0075ca/000000?text=+) |
-| `🚀 good first issue` | Perfeito para iniciantes | ![#7057ff](https://placehold.co/15/7057ff/000000?text=+) |
-| `🆘 help wanted` | Precisa de ajuda extra | ![#008672](https://placehold.co/15/008672/000000?text=+) |
-| `⚡ performance` | Otimização | ![#ff9500](https://placehold.co/15/ff9500/000000?text=+) |
+| `🐛 bug` | Algo não funcionando | 🔴 Vermelho |
+| `✨ feature` | Nova funcionalidade | 🔵 Azul claro |
+| `📝 docs` | Melhorias documentação | 🟦 Azul |
+| `🚀 good first issue` | Perfeito para iniciantes | 🟣 Roxo |
+| `🆘 help wanted` | Precisa de ajuda extra | 🟢 Verde |
+| `⚡ performance` | Otimização | 🟠 Laranja |
 
 ### 🎯 **Áreas que Precisam de Contribuição**
 
@@ -1055,7 +827,7 @@ git commit -m "perf: otimiza renderização PDF com cache de templates"
 
 ---
 
-## 🔧 Guia de Desenvolvimento
+## ⚙️ Guia de Desenvolvimento
 
 ### 🛠️ **Setup Completo para Desenvolvimento**
 
@@ -1172,7 +944,7 @@ Copyright (c) 2024 RelatórioPDF
 
 ### 🚀 **Pronto para Automatizar?**
 
-[![Get Started](https://img.shields.io/badge/Começar%20Agora-brightgreen?style=for-the-badge&logo=rocket)](/#-instalação-rápida)
+[![Get Started](https://img.shields.io/badge/Começar%20Agora-brightgreen?style=for-the-badge&logo=rocket)](#-instalação-rápida)
 [![Star this repo](https://img.shields.io/badge/⭐-Dar%20Uma%20Estrela-yellow?style=for-the-badge&logo=github)](https://github.com/Sanabre3/relatorioPDF)
 [![Follow](https://img.shields.io/badge/Seguir-@Sanabre3-blue?style=for-the-badge&logo=github)](https://github.com/Sanabre3)
 
@@ -1187,7 +959,7 @@ Copyright (c) 2024 RelatórioPDF
 ---
 
 <details>
-<summary>📊 <strong>Estatísticas do Repositório</strong></summary>
+<summary>🛠️ <strong>Estatísticas do Repositório</strong></summary>
 
 <div align="center">
 
@@ -1211,6 +983,4 @@ Copyright (c) 2024 RelatórioPDF
 
 </div>
 
-</details>#   A u t o m a t i c _ R e p o r t 
- 
- 
+</details>
