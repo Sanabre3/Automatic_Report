@@ -1,3 +1,47 @@
-node_modules
-logs
-package-lock.json
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Cache e temporários
+cache/
+*.tmp
+*.temp
+*.log
+!logs/.gitkeep
+
+# Output gerado
+output/
+!output/.gitkeep
+
+# Backups
+backup-*/
+*.backup
+*.bak
+
+# Environment
+.env
+.env.local
+.env.production
+
+# OS gerados
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos temporários do projeto
+check-files.js
+create-*.js
+fix-*.js
+validate-*.js
+restore-*.js
+setup.js
+copy-*.js
+clean-*.js
